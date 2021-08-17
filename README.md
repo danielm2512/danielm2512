@@ -19,8 +19,9 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielm2512)](https://github.com/danielm2512/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielm2512&layout=compact)](https://github.com/danielm2512/github-readme-stats)
 
+<br />
 <br />
 
 
@@ -31,6 +32,8 @@
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/63135667/129654396-db9d9738-3989-4bbd-9e6a-7e28a14b8415.png" />
 
 <br />
+<br />
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
