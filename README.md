@@ -1,16 +1,34 @@
-### Hi there 👋
+### Opa! Bem Vindo ao meu repositorio eu me chamo Daniel👋
 
-<!--
-**danielm2512/danielm2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Eu sou um desenvolvedor Back-End e estudante
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏭 Atualmente trabalho na Galeria Page 
+- 🤓 Estou sempre em busca de novos conhecimentos
+- 🎉 Estou no meu ultimo semestre na faculdade
+
+<br />
+
+### Me siga nas redes sociais 😀
+
+[<img align="left" alt="danielm2512 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/63135667/129654396-db9d9738-3989-4bbd-9e6a-7e28a14b8415.png" />]
+
+<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="daniel GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielm2512&show_icons=true&hide_border=true" />
+
+</details>
+
+
+[linkedin]: https://www.linkedin.com/in/devhideki/
