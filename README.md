@@ -6,13 +6,14 @@
 - 🏭 Atualmente trabalho na Galeria Page 
 - 🤓 Estou sempre em busca de novos conhecimentos
 - 🎉 Estou no meu ultimo semestre na faculdade
+- - :cd: Escute uma musica para animar seu dia! Listen to my playlist on [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl?si=d59f2ae026394cc8) 
 
 <br />
 
 ### Me siga nas redes sociais 😀
 
 [<img align="left" alt="danielm2512 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=danielm2512)
 <br />
 
 ### Languages and Tools:
