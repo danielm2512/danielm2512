@@ -1,5 +1,5 @@
 ### Opa! Bem Vindo ao meu repositorio eu me chamo Daniel👋
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=danielm2512)
 
 ## Eu sou um desenvolvedor Back-End e estudante
 
@@ -13,7 +13,7 @@
 ### Me siga nas redes sociais 😀
 
 [<img align="left" alt="danielm2512 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=danielm2512)
+
 <br />
 
 ### Languages and Tools:
