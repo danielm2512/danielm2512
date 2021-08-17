@@ -6,7 +6,7 @@
 - 🏭 Atualmente trabalho na Galeria Page 
 - 🤓 Estou sempre em busca de novos conhecimentos
 - 🎉 Estou no meu ultimo semestre na faculdade
-- - :cd: Escute uma musica para animar seu dia! Listen to my playlist on [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl?si=d59f2ae026394cc8) 
+- :cd: Escute uma musica para animar seu dia! Listen to my playlist on [Spotify](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl?si=d59f2ae026394cc8) 
 
 <br />
 
